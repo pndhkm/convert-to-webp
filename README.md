@@ -16,7 +16,7 @@ chmod +x *.sh
 If you're not satisfied with the result, reconvert with a different quality setting:
 
 ```bash
-./reconvert_webp.sh uploads 80
+./reconvert_webp.sh uploads 10
 ```
 
 [Preview Results](PreviewResults/README.md)
