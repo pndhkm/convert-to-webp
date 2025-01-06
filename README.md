@@ -9,7 +9,7 @@ To **convert** images in a specified folder to WebP format with a specified qual
 
 2. Convert images in the chosen folder with the specified quality:
    ```
-   ./compress.sh [folder_name] [quality]
+   ./convert.sh [folder_name] [quality]
    ```
    Replace `[folder_name]` with the path to your folder, and `[quality]` with the desired quality (e.g., 80).
 
